@@ -1,6 +1,6 @@
 {
     "displayType": "both",
-    "showMoonTimes": true,
+    //"showMoonTimes": true,
     "displaySeconds": "false",
     "analogSize": "300",
     "lat": "47.9506438",

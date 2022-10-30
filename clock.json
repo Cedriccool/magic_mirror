@@ -1,8 +1,8 @@
 {
-    displayType: "both",
-    showMoonTimes: true,
-    displaySeconds: "false",
-    analogSize: "300",
-    lat: "47.9506438",
-    lng: "6.7842072",
+    "displayType": "both",
+    "showMoonTimes": true,
+    "displaySeconds": "false",
+    "analogSize": "300",
+    "lat": "47.9506438",
+    "lng": "6.7842072"
 }

@@ -1,17 +1,17 @@
 {
-    "à toute heure": [
-        "Hé, sexy !",
+    "anytime": [
+        "Hé, sexy!",
         "J'espère que ta journée est aussi belle que ton visage !",
         "Tu t'entraines ?",
         "J'ai de la chance d'être ton miroir !",
         "La Force est forte avec toi",
-        "Si je pouvais te taper cinq... je le ferais !",
-        "Sur une échelle de 1 à 10, vous êtes un 15 !",
+        "Si je pouvais te taper cinq... je le ferais!",
+        "Sur une échelle de 1 à 10, vous êtes un 15!",
         "Être génial, c'est dur, mais tu y arriveras",
         "Je pourrais rester ici toute la journée !",
         "J'ai besoin de temps pour réfléchir...",
         "Je me vois beaucoup en toi",
-        "Merde. Tu as l'air bien !",
+        "Merde. Tu as l'air bien!",
         "Oui, tu es la plus belle de toutes",
         "Que la force soit avec toi",
         "Il n'y a pas d'endroit comme à la maison",
@@ -39,7 +39,7 @@
         "Les appelants sont intimidés par l'humour de votre message d'accueil",
         "Les enfants pensent que vous êtes la vieille personne cool",
         "Les gens pensent toujours que vos jeggings sont des jeans normaux",
-        "80 % des gangs de motards pensent que tu serais un ravissant side-car",
+        "80% des gangs de motards pensent que tu serais un ravissant side-car",
         "Tout le monde à la laverie pense que tu as les sous-vêtements les plus mignons",
         "Les gens derrière vous au cinéma pensent que vous avez la taille idéale",
         "Tes parents se disputent pour savoir à qui tu ressembles",
@@ -59,7 +59,7 @@
         "Tu devrais être fier de toi",
         "Vous êtes plus utile que vous ne le pensez",
         "Vous avez un excellent sens de l'humour",
-        "Vous avez tous les bons mouvements !",
+        "Vous avez tous les bons mouvements!",
         "Tu es tout ça et un sac de chips géant",
         "Tu es encore plus belle à l'intérieur qu'à l'extérieur",
         "Si les merlebleus de dessins animés étaient réels, un groupe d'entre eux serait assis sur vos épaules en train de chanter en ce moment",
@@ -68,7 +68,7 @@
         "Vous faites ressortir le meilleur chez les autres",
         "Votre capacité à vous rappeler des faits aléatoires au bon moment est impressionnante",
         "Vous êtes un grand auditeur",
-        "Comment se fait-il que vous ayez toujours fière allure, même en pantalon de survêtement ?",
+        "Comment se fait-il que vous ayez toujours fière allure, même en pantalon de survêtement?",
         "Tout irait mieux si plus de gens étaient comme vous !",
         "Je parie que tu transpires des paillettes",
         "Tu étais cool bien avant que les hipsters ne soient cool",
@@ -118,9 +118,9 @@
         "Les bébés et les petits animaux vous aiment probablement",
         "Tu es la raison pour laquelle quelqu'un sourit",
         "Tu es encore meilleur qu'une licorne, parce que tu es réel",
-        "Comment continuez-vous à être aussi drôle et à faire rire tout le monde ?",
+        "Comment continuez-vous à être aussi drôle et à faire rire tout le monde?",
         "Tu as une bonne tête sur les épaules",
-        "Quelqu'un vous a-t-il déjà dit que vous aviez une excellente posture ?",
+        "Quelqu'un vous a-t-il déjà dit que vous aviez une excellente posture?",
         "La façon dont vous chérissez vos proches est incroyable",
         "Tu es vraiment quelque chose de spécial",
         "Tu es un cadeau pour ceux qui t'entourent",
@@ -137,7 +137,7 @@
         "J'aime votre sens du style",
         "Tes cheveux sont magnifiques",
         "Tu sens bon aujourd'hui",
-        "Tu balances cette chemise !",
+        "Tu balances cette chemise!",
         "Bon travail!",
         "J'aime tes chaussures",
         "J'aime la façon dont vous avez conçu mon site Web",
@@ -147,19 +147,19 @@
         "J'aime toutes les photos que vous avez prises",
         "Tu es un mari formidable",
         "C'est tellement génial!",
-        "Vous avez fait du sport ces derniers temps ?",
-        "Comment coiffez-vous vos cheveux comme ça ?",
+        "Vous avez fait du sport ces derniers temps?",
+        "Comment coiffez-vous vos cheveux comme ça?",
         "J'aime ton pantalon",
         "Je recommanderai votre service à mes amis",
         "Vous devez être la vie de la fête",
         "Tu es encore mieux sans maquillage",
-        " Tu as un très bon goût vestimentaire ",
-        "Faites une pause ! Vous méritez des vacances",
-        "Comment rendre votre peau impeccable et radieuse ?",
+        "Tu as un très bon goût vestimentaire",
+        "Faites une pause! Vous méritez des vacances",
+        "Comment rendre votre peau impeccable et radieuse?",
         "Jolis ongles !",
         "Tu es unique",
         "Tu es cool dans ces bottes",
-        "Continuez votre bon travail !",
+        "Continuez votre bon travail!",
         "Vous avez réussi!",
         "Ces chaussures étaient un excellent choix.",
         "9 dentistes sur 10 sont d'accord, vous êtes le MEILLEUR",
@@ -202,7 +202,7 @@
         "Vous êtes vraiment intelligent",
         "Tu es superbe aujourd'hui, sérieusement"
     ],
-    "Matin": [
+    "morning": [
         "Bonjour Soleil!",
         "Qui a besoin de café quand tu as ton sourire ?",
         "Va les chercher, Tigre !",
@@ -210,50 +210,50 @@
         "J'aime l'odeur du napalm le matin",
         "Tu es en avance aujourd'hui"
     ],
-    "après midi": [
-        "Frapper votre foulée !",
-        "Vous faites une différence !",
+    "afternoon": [
+        "Frapper votre foulée!",
+        "Vous faites une différence!",
         "Tu es plus amusant que du papier bulle !"
     ],
-    "soirée": [
+    "evening": [
         "Tu as fait sourire quelqu'un aujourd'hui, je le sais",
         "Vous faites la différence",
         "La journée a été meilleure pour vos efforts",
         "À demain!",
         "Dormez bien"
     ],
-    "neiger": [
+    "snow": [
         "Bataille de boules de neige !"
     ],
-    "jour_ensoleillé": [
+    "day_sunny": [
         "Aujourd'hui est une journée ensoleillée",
         "C'est une belle journée",
-        "Le soleil brille aujourd'hui !",
+        "Le soleil brille aujourd'hui!",
         "C'est une belle journée",
         "C'est magnifique dehors, va jouer !"
     ],
-    "jour_nuageux": [
+    "day_cloudy": [
         "C'est nuageux là-bas, mais pas de boulettes de viande",
-        "C'est peut-être nuageux, mais il fait quand même beau !",
+        "C'est peut-être nuageux, mais il fait quand même beau!",
         "Le soleil se cache en ce moment"
     ],
-    "nuageux": [],
-    "il y a des nuages ​​et du vent": [],
-    "douches": [],
-    "pluie": [
+    "cloudy": [],
+    "cloudy_windy": [],
+    "showers": [],
+    "rain": [
         "Prends ton parapluie avec toi",
         "C'est mouillé là-bas, conduisez prudemment !",
         "Il pleut dehors, mais tu illumines ma journée"
     ],
-    "orage": [],
-    "brouillard": [],
+    "thunderstorm": [],
+    "fog": [],
     "night_clear": [
-        "Météo pour ce soir : sombre"
+        "Météo pour ce soir: sombre"
     ],
     "night_cloudy": [],
     "night_showers": [],
-    "pluie_nuit": [],
-    "nuit_orage": [
+    "night_rain": [],
+    "night_thunderstorm": [
         "C'est une nuit d'orage, n'aie pas peur"
     ],
     "night_alt_cloudy_windy": [],
